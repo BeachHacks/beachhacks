@@ -209,22 +209,14 @@ a {
     min-width: 50px;
 }
 
-.logo-holder {
-    text-align: center;
-    margin-bottom: 3em;
+.img-group {
+	display: inline-block;
+	text-align: center;
 }
 
-.logo-holder .logo.gold {
-    height: 90px;
-    max-width: 300px;
-}
-
-.logo-holder .logo {
-    display: inline-block;
-    margin: 10px 20px;
-    height: 70px;
-}
-
-.logo-holder .logo.diamond {
-    height: 130px;
+.logo {
+	display: inline-block;
+	max-width: 300px;
+	width: 75%;
+	min-width: 50px;
 }
